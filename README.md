@@ -3,7 +3,7 @@
 This project is designed to assist users in finding the best apartment options while hunting for a place to live. The program allows users to evaluate various apartments based on key criteria such as rent, distance from UCSB, and condition. The primary files involved in this project are:
 
 - **Apartment.py**: Contains the class definition for an Apartment object.
-- **lab06.py**: Implements sorting and evaluation functions to analyze apartment data.
+- **ApartmentHunting.py**: Implements sorting and evaluation functions to analyze apartment data.
 - **testFile.py**: Includes test cases to verify the correctness of the implemented functionalities.
 
 ## Features
